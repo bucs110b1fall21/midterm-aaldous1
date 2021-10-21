@@ -8,7 +8,7 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
-What did you clean up?:
+What did you clean up?: I cleaned up the polygon drawing by making it more efficient, as well as instantiating constants in global space.
 
 Summary of function(s) added:
 
