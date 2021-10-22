@@ -64,6 +64,14 @@ def main():
 	michelangelo.down()
 	for i in A:
 		drawPolygon(michelangelo, lengthPolygon, i)
+	#New Feature
+	leonardo.down()
+	sidesNum = int(input("How many sides: "))
+	for i in range(sidesNum):
+		michelangelo.forward(lengthPolygon)
+		leonardo.forward(lengthPolygon)
+		michelangelo.left(360/sidesNum)
+		leonardo.right(360/sidesNum)
 		
 	window.exitonclick()
 main()

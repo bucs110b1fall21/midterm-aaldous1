@@ -12,13 +12,13 @@ What did you clean up?: I cleaned up the polygon drawing by making it more effic
 
 Summary of function(s) added: Function to return turtles to starting position, function to make the turtles race, and function to make turtles draw a polygon.
 
-Summary of Feature Added:
+Summary of Feature Added: Asks the user for integer input and has the two turtles draw their own polygon going in two different directions with inputted number of sides.
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+N/A
 
 ## REFERENCES:
- < List any outside resources used >
+N/A
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+N/A
