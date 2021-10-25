@@ -21,4 +21,4 @@ N/A
 N/A
 
 ## MISCELLANEOUS COMMENTS:
-N/A
+I accidentally forgot the main in the initial commit but added it for the first commit. The readme and main got mixed up for the first two commits so that's why there's two different commits for those two first commits.
